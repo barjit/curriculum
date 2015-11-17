@@ -116,6 +116,7 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 * [Skye Free's solution](https://github.com/swfree/blogger) | [View in browser](https://frightful-tomb-1917.herokuapp.com/articles)
 * [Mateusz Staszczyk’s solution](https://github.com/sleaz0id/blogger)
 * [Dominik Chomicki's solution](https://github.com/hamstersky/blogger) | [View in browser](https://arcane-chamber-8578.herokuapp.com/)
+* [Jitterboggle's solution](https://github.com/jitterboggle) | [View in browser](https://still-crag-3757.herokuapp.com/)
 * Add your solution above this line!
 
 
